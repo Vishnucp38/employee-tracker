@@ -8,3 +8,4 @@ Command for running back end
   1) npm i
   2) npm run dev
   
+mongodb instance must be running on local machine 
